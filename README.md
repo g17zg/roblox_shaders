@@ -8,4 +8,4 @@
 
 ### Screenshots:
 #### Sunset Bright (Fling Things And People):
-![Sunset_bright](screenshots/ftap_sunset_bright.png)
+[Sunset_bright](screenshots/ftap_sunset_bright.png)
