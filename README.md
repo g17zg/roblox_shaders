@@ -6,4 +6,4 @@
 *3. attach and run the script, thats all!*
 # Screenshots:
 # Sunset Bright (Fling Things And People):
-![Sunset_bright](screenshots/ftap_sunset_bright.png)
+![Sunset_bright](https://github.com/g17zg/roblox_shaders/blob/main/screenshots/ftap_sunset_bright.png)
